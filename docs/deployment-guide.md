@@ -9,6 +9,18 @@ cd terraform-ec2-basic
 
 # Copy the files above into your directory
 
+your-terraform-repo/
+├── docs/
+│   ├── deployment-guide.md
+│   ├── architecture.md
+│   └── troubleshooting.md
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   └── terraform.tfvars.example
+└── README.md
+
 # Copy the example variables file
 ```bash
 cp terraform.tfvars.example terraform.tfvars
