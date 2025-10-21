@@ -1,2 +1,17 @@
-# terraform-ec2-deploy
-This guide will help you create comprehensive documentation for your Terraform-based EC2 deployments stored in GitHub repositories.
+# Project Name - EC2 Terraform Deployment
+
+## Overview
+Brief description of what this deployment does
+
+## Architecture
+Link to detailed architecture documentation
+
+## Quick Start
+- Prerequisites
+- Installation steps
+- Basic usage
+
+## Documentation
+- [Deployment Guide](./docs/deployment-guide.md)
+- [Architecture Overview](./docs/architecture.md)
+- [Troubleshooting](./docs/troubleshooting.md)
