@@ -3,13 +3,14 @@
 
 # Clone or create your project directory
 ```bash
-mkdir terraform-ec2-basic
-cd terraform-ec2-basic
+mkdir terraform-ec2-deploy
+cd terraform-ec2-deploy
 ```
 
 # Copy the files above into your directory
 
-your-terraform-repo/
+```bash
+terraform-ec2-deploy/
 ├── docs/
 │   ├── deployment-guide.md
 │   ├── architecture.md
@@ -20,6 +21,7 @@ your-terraform-repo/
 │   ├── outputs.tf
 │   └── terraform.tfvars.example
 └── README.md
+```
 
 # Copy the example variables file
 ```bash
